@@ -13,7 +13,7 @@
 - 项目介绍
   - https://mp.weixin.qq.com/s/wHZhnsB5hStAvb1dgFwkRg
 - 复刻说明
-  - TBD
+  - https://mp.weixin.qq.com/s/cjHPmXucK-ahlPPqT-1ODw
 
 
 
